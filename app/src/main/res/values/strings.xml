@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GB_PodgAndroid_Homework_4</string>
+    <string name="home">home</string>
+    <string name="classes">classes</string>
+    <string name="indicator">indicator</string>
+    <string name="open_in">open_in</string>
+    <string name="hi">Hi, Mike!</string>
+    <string name="are_you_ready_for_exams">Are you ready for exams?</string>
+    <string name="days">days</string>
+    <string name="hours">hours</string>
+    <string name="minutes">minutes</string>
+    <string name="divider">:</string>
+    <string name="homework">homework</string>
+    <string name="teacher">teacher</string>
+    <string name="lessons_today">lessons today</string>
+    <string name="connection_failed">connection failed</string>
+</resources>
